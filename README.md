@@ -64,7 +64,7 @@ The **MERN stack** is a collection of technologies used for building modern web 
 ```js
 const element = <h1>Hello, world!</h1>;
 
-
+```
 
 ## 5. Virtual DOM in React
 
