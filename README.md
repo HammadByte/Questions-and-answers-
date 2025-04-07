@@ -62,6 +62,8 @@ The **MERN stack** is a collection of technologies used for building modern web 
 **JSX (JavaScript XML)** is a syntax extension for JavaScript used with React. It allows developers to write HTML-like code inside JavaScript files. JSX gets transpiled to regular JavaScript by tools like Babel, making React components easier to define.
 
 ```js
+code
+
 const element = <h1>Hello, world!</h1>;
 
 ```
