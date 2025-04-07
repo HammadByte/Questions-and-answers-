@@ -66,8 +66,7 @@ const element = <h1>Hello, world!</h1>;
 
 
 
-
-5. Virtual DOM in React 
+## 5. Virtual DOM in React
 
 Answer:
 The Virtual DOM is a lightweight copy of the actual DOM in memory. React uses it to optimize rendering by calculating the minimal number of changes and updating the real DOM accordingly.
